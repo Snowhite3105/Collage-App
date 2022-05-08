@@ -1,5 +1,6 @@
 body{
  background:linear-gradient(rgb(255, 193, 203),rgb(193, 202, 253)); 
+ colour: white;
 }
 #camera{
 width: 500px;
