@@ -1,0 +1,24 @@
+body{
+ background:linear-gradient(rgb(255, 193, 203),rgb(193, 202, 253)); 
+}
+#camera{
+width: 500px;
+height:400px;
+border:3px dotted white;
+}
+img{
+  width: 50%;
+  border-radius: 5px;
+  padding: 7px;
+  box-shadow: 2px 5px 2px 5px gray;
+}
+img: hover{
+  border-radius: 50%;
+}
+.copy_right_footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  line-height: 3px;
+}
